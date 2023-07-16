@@ -2,15 +2,10 @@
     "development": {
         "username": "root",
         "password": "",
-        "database": "rolling_glory",
+        "database": "dans_multi_pro",
         "host": "localhost",
         "dialec": "mysql"
     },
     "PORT": 3001,
-    "secret": "supersecret",
-    "user": {
-        "id": "",
-        "email": "",
-        "name": ""
-    }
+    "secret": "supersecret"
 }
